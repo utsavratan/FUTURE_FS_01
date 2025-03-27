@@ -6,7 +6,7 @@ misterutsav is a fully responsive personal portfolio website, responsive for all
 
 ## Demo
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
+![vCard Desktop Demo](./vcard-personal-portfolio-master/website-demo-image/desktop.png)
 
 ## Prerequisites
 
